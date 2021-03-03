@@ -1,0 +1,105 @@
+# jemdoc: menu{MENU}{index.html}, nofooter  
+==Xi Chen（陈曦）
+
+~~~
+{}{img_left}{photos/jason.png}{alt text}{131}{160}{http://people.kth.se/~euhanna/}
+Team Leader, \n
+[https://jarvislab.tencent.com/ Jarvis Lab, Tencent] \n
+Research Interests: Natural Language Processing, Knowledge Graph, Medical AI \n
+WeChat: zjuchenxi \n
+E-post: jasonxchen \[@\] tencent \[DOT\] com
+~~~
+
+== About me
+Hi! I am Xi Chen. I got my Ph.D in College of Computer Science in Zhejiang University, with the supervision of Prof. [http://ece.ut.ac.ir/ Huajun Chen]. In 2015, I spent several months as a visiting student at Prof. Calton Pu's lab in Georgia Tech University.
+
+From 2015 to 2017, I was a research intern at Business Platform-Data Service Department of Alibaba (Product Knowledge Graph Group). 
+From 2017 to 2018, I was a senior Researcher at Huawei Noah Lab. 
+Currently, I am a senior researcher at Tencent Jarvis Lab (Leader of KG and NLP Team).   
+
+
+{{<font color = 'red'>}}We are hiring interns and full-time employees on NLP, KG and medical AI. Feel free to send me (jasonxchen@tencent.com) your CV if you are interested.{{</font>}}
+
+
+== Recent Papers（* equal contribution or corresponding author)
+- Online Disease Self-diagnosis with Inductive Heterogeneous Graph Convolutional Networks \n
+Zifeng Wang, Rui Wen, *Xi Chen* {{<sup>*</sup>}}, Shilei Cao, Buyue Qian, & Yefeng Zheng. \n
+WWW 2021. [https://arxiv.org/pdf/2009.02625.pdf Paper]
+
+- Enquire One's Parent and Child Before Decision: Fully Exploit Hierarchical Structure for Self-Supervised Taxonomy Expansion \n
+Suyuchen Wang, Ruihui Zhao, *Xi Chen*, Yefeng Zheng, Bang Liu \n
+WWW 2021. [https://arxiv.org/pdf/2009.02625.pdf Paper]
+
+- Learning Robust Patient Representations from Multi-modal Electronic Health Records: A Supervised Deep Learning Approach. \n
+Xianli Zhang, Buyue Qian, Yang Li, Yang Liu, *Xi Chen*, Chong Guan, YefengZheng, and Chen Li.   \n
+InProceedings of the 2021 SIAM International Conference on Data Mining (SDM)
+
+- Forecasting the long-term trend of COVID\-19 epidemic using a dynamic model \n
+Jichao Sun, *Xi Chen{{<sup>*</sup>}}*, Ziheng Zhang, Shengzhang Lai, Bo Zhao, Hualuo Liu, ShuojiaWang, Wenjing Huan, Ruihui Zhao, ManTat Alexander Ng, Yefeng Zheng \n
+Scientific reports 2021 10 (1), 1-10 [https://www.nature.com/articles/s41598-020-78084-w Paper]
+
+- Information Theoretic Counterfactual Learning from Missing-Not-At-Random Feedback \n
+Zifeng Wang, *Xi Chen*, Rui Wen, Shao-Lun Huang, Ercan Kuruoglu, Yefeng Zheng.  \n
+NIPS 2020. [https://arxiv.org/pdf/2009.02623.pdf Paper]
+
+- Summarizing Chinese Medical Answer with Graph Convolution Networks and Question-focused Dual Attention \n
+Ningyu Zhang, Shumin Deng, Juan Li, *Xi Chen*, Wei Zhang, Huajun Chen \n
+In Findings of EMNLP (EMNLP), 2020 [https://www.aclweb.org/anthology/2020.findings-emnlp.2.pdf Paper]
+
+- An Industry Evaluation of Embedding-based Entity Alignment. \n
+Ziheng Zhang, Jiaoyan Chen, *Xi Chen{{<sup>*</sup>}}*, Hualuo Liu, Yuejia Xiang, Bo Liu, Yefeng Zheng.  \n
+COLING 2020 [https://arxiv.org/pdf/2010.11522.pdf Paper]
+
+- Correcting Knowledge Base Assertions. \n
+Jiaoyan Chen, *Xi Chen*, I Horrocks, E B. Myklebust, E Jimenez-Ruiz. \n
+WWW 2020. [https://arxiv.org/pdf/2001.06917.pdf Paper]
+
+- Long-tail Relation Extraction via Knowledge Graph Embeddings and Graph Convolution Networks.\n
+Ningyu Zhang, Shumin Deng, Zhanlin Sun, Guanying Wang, *Xi Chen*, Wei Zhang, Huajun Chen.  \n
+NAACL 2019 [https://www.aclweb.org/anthology/N19-1306.pdf Paper]
+
+
+- Attention-Based Capsule Networks with Dynamic Routing for Relation Extraction \n
+Ningyu Zhang, Shumin Deng, Zhanlin Sun, *Xi Chen*, Wei Zhang, Huajun Chen \n
+In Proceedings of the Conference on Empirical Methods in Natural Language Processing (EMNLP), 2018 [https://www.aclweb.org/anthology/D18-1120.pdf Paper]
+
+# - Structured Knowledge Base as Prior Knowledge to Improve Urban Data Analysis \n 
+# Ningyu Zhang, Shumin Deng, Huajun Chen, *Xi Chen*, Jiaoyan Chen, Xiaoqian Li, Yiyi Zhang \n
+# ISPRS International Journal of Geo-Information , 2018.[Paper] [https://www.mdpi.com/2220-9964/7/7/264 Paper]
+
+
+# - Forecasting public transit use by crowdsensing and semantic trajectory mining: Case studies \n
+# Ningyu Zhang, Huajun Chen, *Xi Chen*, Jiaoyan Chen \n
+# ISPRS International Journal of Geo-Information , 2016.
+
+# - Semantic framework of internet of things for smart cities: case studies \n
+# Ningyu Zhang, Huajun Chen, *Xi Chen*, Jiaoyan Chen \n
+# Sensors , 2016. [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5038774/ Paper]
+
+
+# - Large-scale real-time semantic processing framework for Internet of Things \n
+# *Xi Chen*, Huajun Chen, Ningyu Zhang, Jue Huang, Wen Zhang \n
+# International Journal of Distributed Sensor Networks , 2015.
+
+# - Hbasespatial: A scalable spatial data storage based on hbase \n
+# Ningyu Zhang, Guozhou Zheng, Huajun Chen, Jiaoyan Chen, *Xi Chen* \n
+# In Proceedings of IEEE 13th International Conference on Trust, Security and Privacy in Computing and Communications (TrustCom) , 2014.
+
+# - Owl reasoning over big biomedical data \n
+# *Xi Chen*, Huajun Chen, Ningyu Zhang, Jiaoyan Chen, Zhaohui Wu \n
+# In Proceedings of IEEE International Conference on Big Data , 2013.
+
+# - A Distributed Reasoning Framework for Big Semantic Data Based on Hadoop \n
+# *Xi Chen*, Huajun Chen, Peiqing Gu, Ningyu Zhang, Jiaoyan Chen, Tong Yu \n
+# Journal of Computer Research and Development , 2013.
+
+
+
+== Honors
+- Got 2nd in the Track of entity and semantic relation extraction task on Semeval 2021 （2/100+）
+- Got 2nd on SuperGLUE
+- Got 1st on Military Named Entity Regnition CCKS 2020（1/213）
+- Got 2nd on the Biendata Relation Extraction Competition 2020（2/365）
+- Got 1st on the Biendata Named Entity Recognition Competition 2020（1/588）
+- Got 2st on the Track of CHIP Challenge Medical Relation Extraction 2020（2/639）
+- Got 1st on the Track of CHIP Challenge Medical Named Entity Extraction 2020（1/753）
